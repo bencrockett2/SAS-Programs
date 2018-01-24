@@ -15,4 +15,4 @@ datalines;
 		;
 run;
 
-* Here is a comment, it is really great;
+* Here is a comment, it is pretty great;
